@@ -1,0 +1,15 @@
+basic-nlp-pytorch
+	word2vec
+		NGram
+		CBOW
+		GloVe
+		Apllications: Find synonyms, word suggestion
+	NER/POS
+		RNN/LSTM
+	machine translation
+		Seq2Seq
+		Attention-based
+	summarization
+		TextRank, LexRank
+		Seq2Seq + Dynamic Blocking
+		Transformer
