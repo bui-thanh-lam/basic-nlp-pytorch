@@ -1,15 +1,9 @@
 basic-nlp-pytorch
 	word2vec
-		NGram
-		CBOW
-		GloVe
-		Apllications: Find synonyms, word suggestion
-	NER/POS
-		RNN/LSTM
-	machine translation
-		Seq2Seq
-		Attention-based
-	summarization
-		TextRank, LexRank
-		Seq2Seq + Dynamic Blocking
-		Transformer
+		NGram: 1 notebook
+	seq2seq
+		NMT: 1 notebook, 1 package
+	transfromer
+		summarization: 1 notebook, 1 package
+		QA (finetune): 1 notebook
+		
