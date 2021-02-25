@@ -2,7 +2,7 @@ basic-nlp-pytorch
 	word2vec
 		NGram: 1 notebook
 	seq2seq
-		NMT: 1 notebook, 1 package
+		NMT: 2 notebook, 1 package
 	transfromer
 		summarization: 1 notebook, 1 package
 		QA (finetune): 1 notebook
