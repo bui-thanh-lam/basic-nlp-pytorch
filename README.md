@@ -22,6 +22,8 @@ My settings: Adam optimizer with init lr 0.0005, batch size 128, 10 epochs, max 
 
 I've used entire huggingface's mt_eng_vietnamese dataset for training, validating and testing.
 
+**Results:**
+
 1. Uni-Uni Seq2Seq w/o attention: best checkpoint valid loss: 4.019; test loss: 4.054
 2. Bi-Uni Seq2Seq w/o Attention: best checkpoint valid loss: 3.900; test loss: 3.900
 3. Bi-Uni Seq2Seq with Global Attention: best checkpoint valid loss ; test loss
