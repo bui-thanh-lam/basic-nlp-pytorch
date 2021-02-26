@@ -10,7 +10,7 @@ This repository is aim for personal practicing deep learning with PyTorch. I fol
 2. Seq2Seq: Vanilla seq2seq, Seq2Seq with Attention (Luong et al version). Training for machine translation task.
 3. Transformer: Conv NN with Attention, Transformer with Attention only. Training for single doc abstractive summarization task.
 
-All models have been trained from scratch. I've used some libraries for data preprocessing and evaluating (i.g: transformers, datasets, rouge...).
+All models have been trained from scratch. I've used some libraries for data preprocessing and evaluating (e.g: transformers, datasets, rouge, etc).
 
 ## Results summary:
 
