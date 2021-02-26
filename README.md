@@ -14,7 +14,7 @@ All models have been trained from scratch. I've used some libraries for data pre
 
 ## Results summary:
 
-#### Machine translation:
+### Machine translation:
 
 These models have been trained under the same hardware and hyperparams.
 
