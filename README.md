@@ -20,9 +20,9 @@ These models have been trained under the same hardware and hyperparams.
 I've set: Adam optimizer with init lr 0.0005, batch size 128, 10 epochs, max input length 32, max output length 64, teacher forcing ratio 0.1.
 I've used entire huggingface's mt_eng_vietnamese dataset for training, validating and testing.
 
-1. Uni-Uni Seq2Seq w/o attention: last valid loss 4.019; test loss: 4.054
-2. Bi-Uni Seq2Seq w/o Attention: last valid loss ; test loss
-3. Bi-Uni Seq2Seq with Global Attention: last valid loss ; test loss
+1. Uni-Uni Seq2Seq w/o attention: best checkpoint valid loss: 4.019; test loss: 4.054
+2. Bi-Uni Seq2Seq w/o Attention: best checkpoint valid loss: 3.900; test loss: 3.900
+3. Bi-Uni Seq2Seq with Global Attention: best checkpoint valid loss ; test loss
 
 You can find these results on my notebooks in this repo.
 
